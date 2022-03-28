@@ -1,0 +1,14 @@
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Daria\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Daria\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Daria\source\repos\Lab1\Lab1\bin\Debug\yo-NG\Lab1.resources.dll
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.yo-NG.resources
+C:\Users\Daria\source\repos\Lab1\Lab1\obj\Debug\yo-NG\Lab1.resources.dll
